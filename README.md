@@ -32,11 +32,19 @@ Run project:
 
 python sentiment.py
 
-## Example
+## Example Output
 
 Input:
 I love this product
 
+Output:
+Positive
+
+Input:
+This is a bad service
+
+Output:
+Negative
 Output:
 Positive
 
